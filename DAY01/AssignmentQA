@@ -1,0 +1,26 @@
+	1.	What is use strict mode in javascript? List it's usage.
+---       It is used to run the safe and secure code. 
+      It eliminates the silent errors by changing them into throw errors.
+       “use strict” it is a string lateral expression put it on starting of the    code or we have to place it in inside function at starting but it applies only for function.
+ ‘thestict mode is no longer required after the release of es2015.
+
+“but es6 we have to use strict mode almost for all the codes of js.
+
+
+2.	What is variable shadowing?
+--When a variable is declairedwith in a certain scope has the same name as the variable declared in an outer scope.
+
+
+3.	What is global variables?
+    --           It is defined as the variable that has declared outside of the function and it is accessbile through out the program. 
+
+4.	What is local variables?
+    --       It is defined as the variable that has declared inside of the function and it accessible to that function only.
+
+5.	What is undefined variables?
+    --       It is defined as the variable used in a program that was not previously declared in the source code.
+
+6.	What is undeclared variables?
+    -      When we try to access any variable that is not initialized or declared earlier using var or const keyword.
+  Undeclared variables is always is global scope.
+
